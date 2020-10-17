@@ -1,13 +1,11 @@
 <?php
-    //全局函数回调函数
-    function fnCallBack($msg1,$msg2,$msg3){
-        echo 'msg1:',$msg1;
-        echo "<br />\n";
-        echo 'msg2:',$msg2;
-        echo "<br />\n";
-        echo 'msg2:',$msg3;
-
+    //回调函数 call_user_func_array()
+    function Speak($a,$b){
+        echo "He can speak".$a;
+        echo "<br>";
+        echo "She can speak".$b;
     }
-    $fnName = "fnCallBack";
-    $params = array('hello','world','123');
-    call_user_func_array($fnName,$params);
+    function Speak_Test(){
+        return call_user_func_array('Speak',array('enlish','chinese'));
+    }
+    Speak_Test();

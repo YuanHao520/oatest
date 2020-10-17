@@ -1,0 +1,17 @@
+[ERROR SQL]
+SELECT `setid`,min(sort),`num` FROM xinhu_flow_where WHERE `setid` in(0,1,2,41,46,49,62,88,101,3,22,4,12,99,52,61,5,6,23,51,19,20,69,7,98,8,35,36,77,92,31,32,33,84,83,37,38,39,78,79,71,73,24,28,76,100,102,11,25,26,27,64,65,85,42,44,59,60,74,86,87) and `status`=1 and `islb` and `num` is not null and (ifnull(syrid,'')='' or instr(concat(',', syrid, ','), ',all,')>0 or instr(concat(',', syrid, ','), ',u1,')>0 or instr(concat(',', syrid, ','), ',d1,')>0 or instr(concat(',', syrid, ','), ',d2,')>0 or instr(concat(',', syrid, ','), ',g1,')>0 or instr(concat(',', syrid, ','), ',g3,')>0 or instr(concat(',', syrid, ','), ',g4,')>0) and `pnum` is null group by `setid`
+
+[Reason]
+mysqliError:Expression #3 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'rockxinhu.xinhu_flow_where.num' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+
+[URL]
+http://localhost/index.php?a=getmodesearcharr&m=fwork&d=main&ajaxbool=true&rnd=56663
+
+[IP]
+::1
+
+[datetime]
+2020-10-08 14:54:59
+
+[Browser]
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36

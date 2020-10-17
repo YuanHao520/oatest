@@ -1,0 +1,27 @@
+[ERROR SQL]
+delete from `kys_option` where `name` is null
+
+[Reason]
+mysqliError:Table 'kysoa.kys_option' doesn't exist
+
+[URL]
+http://localhost/index.php?a=save&m=install&d=&ajaxbool=true&rnd=44095
+
+[POST]
+[dbtype]:mysqli
+[engine]:MyISAM
+[host]:localhost
+[user]:root
+[pass]:root
+[base]:kysoa
+[perfix]:kys_
+[url]:http://localhost/
+
+[IP]
+::1
+
+[datetime]
+2020-10-08 15:54:07
+
+[Browser]
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36

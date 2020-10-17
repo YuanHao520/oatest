@@ -4,7 +4,7 @@ if(!defined('HOST'))die('not access');
 return array(
 	'url'		=> '',		//系统URL
 	'localurl'	=> '',			//本地系统URL，用于服务器上浏览地址
-	'title'		=> '开原寺协同办公系统',	//系统默认标题
+	'title'		=> '信呼协同办公系统',	//系统默认标题
 	'apptitle'	=> '信呼OA',			//APP上或PC客户端上的标题
 	'db_host'	=> 'localhost',		//数据库地址
 	'db_user'	=> 'root',		//数据库用户名
@@ -15,9 +15,9 @@ return array(
 	'qom'		=> 'xinhu_',		//session、cookie前缀
 	'highpass'	=> '',			//超级管理员密码，可用于登录任何帐号
 	'db_drive'	=> 'mysqli',	//操作数据库驱动有mysql,mysqli,pdo三种
-	'randkey'	=> 'jsgymnwequobdrclitkvfahzpx',		//系统随机字符串密钥
-	'asynkey'	=> 'bbf788aee69b6283207bdf9cd6c55bd3',	//这是异步任务key
-	'openkey'	=> 'a3ec511975a2a3f8241c61699cef9d6a',	//对外接口openkey
+	'randkey'	=> 'zctyqpmjwoukvedfxrbiashngl',		//系统随机字符串密钥
+	'asynkey'	=> 'ae3a98be14d1999578b0c4ff382dffbe',	//这是异步任务key
+	'openkey'	=> 'f8523c15fad66709bdb422f7c1836154',	//对外接口openkey
 	'updir'		=> 'upload',	//默认上传目录
 	'sqllog'	=> false,		//是否记录sql日志保存upload/sqllog下
 	'asynsend'	=> false,		//是否异步发送提醒消息，为true需开启服务端

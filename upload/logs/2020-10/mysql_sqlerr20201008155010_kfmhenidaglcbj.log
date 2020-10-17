@@ -1,0 +1,27 @@
+[ERROR SQL]
+insert into `kys_log` set `type`='错误SQL',`ip`='::1',`web`='Chrome',`optdt`='2020-10-08 15:50:10',`optid`='0',`optname`=null,`remark`='mysqliError:Table &#39;kysoa.kys_option&#39; doesn&#39;t exist',`url`='upload/logs/2020-10/mysql_sqlerr20201008155010_lacjfminkgdhbe.log',`level`='2'
+
+[Reason]
+mysqliError:Table 'rockxinhu.kys_log' doesn't exist
+
+[URL]
+http://localhost/index.php?a=save&m=install&d=&ajaxbool=true&rnd=156053
+
+[POST]
+[dbtype]:mysqli
+[engine]:MyISAM
+[host]:localhost
+[user]:root
+[pass]:root
+[base]:kysoa
+[perfix]:kys_
+[url]:http://localhost/
+
+[IP]
+::1
+
+[datetime]
+2020-10-08 15:50:10
+
+[Browser]
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36

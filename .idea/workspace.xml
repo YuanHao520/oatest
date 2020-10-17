@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f582a173-abd1-46f6-925a-8aa78d800836" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/bubbleSort.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/choiseSort.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/insertSort.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/jsCallBack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/phpcallback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/static phpcallback.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webmain/webmainConfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/webmain/webmainConfig.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../Extensions/php/php7.3.4nts" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iOQuGvzKI3d3jMDzp0LABW07Gy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyStudio\OA\oa\test" />
+      <recent name="D:\phpstudy_pro\WWW\oa\test" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="closetabs" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f582a173-abd1-46f6-925a-8aa78d800836" name="Default Changelist" comment="" />
+      <created>1601776378337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601776378337</updated>
+      <workItem from="1601776379364" duration="2453000" />
+      <workItem from="1601868137076" duration="260000" />
+      <workItem from="1601878061948" duration="914000" />
+      <workItem from="1602114468074" duration="603000" />
+      <workItem from="1602118526051" duration="14772000" />
+      <workItem from="1602222597454" duration="7905000" />
+      <workItem from="1602375483129" duration="5285000" />
+      <workItem from="1602398096522" duration="3132000" />
+      <workItem from="1602576301029" duration="2917000" />
+      <workItem from="1602662075046" duration="5171000" />
+      <workItem from="1602806640425" duration="6361000" />
+      <workItem from="1602814723470" duration="10157000" />
+      <workItem from="1602893703297" duration="18080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1601776503963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/1920.-10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601776503963" />
+    <state x="2509" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1602230085976">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="2509" y="245" key="#com.intellij.ide.util.MemberChooser/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602230085976" />
+    <state x="2660" y="264" key="FileChooserDialogImpl" timestamp="1602578067358">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.-10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602393648402" />
+    <state x="2660" y="264" key="FileChooserDialogImpl/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602578067358" />
+    <state x="2696" y="433" key="NewPhpFileDialog" timestamp="1602898888705">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="776" y="443" key="NewPhpFileDialog/1920.-10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602222708597" />
+    <state x="2696" y="433" key="NewPhpFileDialog/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602898888705" />
+    <state x="2525" y="136" key="RollbackChangesDialog" timestamp="1602809557215">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="2525" y="136" key="RollbackChangesDialog/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602809557215" />
+    <state x="2715" y="58" width="998" height="708" key="SettingsEditor" timestamp="1602815377985">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="2246" y="207" width="998" height="708" key="SettingsEditor/1920.-10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602666525421" />
+    <state x="2715" y="58" key="SettingsEditor/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602815377985" />
+    <state x="2581" y="128" width="596" height="891" key="find.popup" timestamp="1602897800142">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="2581" y="128" width="596" height="891" key="find.popup/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602897800142" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1602906002286">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602906002286" />
+    <state x="2246" y="89" width="1279" height="897" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1602578110259">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="2246" y="89" width="1279" height="897" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602578110259" />
+    <state x="616" y="245" width="672" height="677" key="run.anything.popup" timestamp="1602917218189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="245" width="672" height="677" key="run.anything.popup/1920.-10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602917218189" />
+    <state x="2536" y="235" width="672" height="677" key="run.anything.popup/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602138143333" />
+    <state x="2543" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1602897858838">
+      <screen x="1920" y="-10" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602666572233" />
+    <state x="2543" y="215" width="672" height="678" key="search.everywhere.popup/1920.-10.1920.1040/0.0.1920.1040@1920.-10.1920.1040" timestamp="1602897858838" />
+  </component>
+</project>
